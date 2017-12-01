@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        app:elevation="16dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        app:itemIconTint="@color/nav_item_state_list"
+        app:itemTextColor="@color/nav_item_state_list"
+        app:menu="@menu/bottom_navigation_items"/>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:visibility="gone"
+        android:layout_above="@id/navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner">
+    </com.google.android.gms.ads.AdView>
+
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_above="@id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</RelativeLayout>

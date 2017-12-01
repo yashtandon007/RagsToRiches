@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Magic Lenz\\Desktop\\RagsToRiches\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Magic Lenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.4.0.aar\\0adcb1d4048d1bb4ccc503db63eba1bf\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Magic Lenz\\Desktop\\RagsToRiches\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,8,5,7,10,6,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,116,399,224,334,456,273,173",
+                        "endColumns": "57,55,53,47,63,46,59,49",
+                        "endOffsets": "110,167,448,267,393,498,328,218"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,27",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,669,725,779,827,891,938,1695",
+                        "endColumns": "57,55,53,47,63,46,59,49",
+                        "endOffsets": "664,720,774,822,886,933,993,1740"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Magic Lenz\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\84e78b20abaecd4846224bcda1338669\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    },
+                    "to": {
+                        "startLines": "25,26",
+                        "startColumns": "4,4",
+                        "startOffsets": "1557,1626",
+                        "endColumns": "68,68",
+                        "endOffsets": "1621,1690"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Magic Lenz\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\260cb71be1eb9feaabf33b85c6981200\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "17,18,19,20,21,22,23,24,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "998,1058,1128,1199,1271,1329,1387,1493,1745,1808",
+                        "endLines": "17,18,19,20,21,22,23,24,28,32",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "1053,1123,1194,1266,1324,1382,1488,1552,1803,1985"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "354354670217",
+    "firebase_url": "https://ragstoriches-8255f.firebaseio.com",
+    "project_id": "ragstoriches-8255f",
+    "storage_bucket": "ragstoriches-8255f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354354670217:android:ac79da3ec65a7aee",
+        "android_client_info": {
+          "package_name": "com.infinityapps007.ragstoriches"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354354670217-ha61cjthqhjts5irlno3rnm9u444bd8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinityapps007.ragstoriches",
+            "certificate_hash": "480235fa1e5d4d6f2dc805eed74517a20d81170b"
+          }
+        },
+        {
+          "client_id": "354354670217-k82bd35ob8nfk6gsf1mb8hcnqfu81da8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCubHBtyG-FAi7DMhD-YWAy_v-QEI-zWqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354354670217-k82bd35ob8nfk6gsf1mb8hcnqfu81da8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

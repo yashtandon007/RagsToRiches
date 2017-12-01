@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">26dp</dimen>
+    <dimen name="activity_vertical_margin">26dp</dimen>
+    <dimen name="nav_header_height">320dp</dimen>
+    <dimen name="categories_card">400dp</dimen>
+    <dimen name="category_card_banner_height">120dp</dimen>
+    <dimen name="categories_center_circular_icon">300dp</dimen>
+    <dimen name="categories_banner_icon">80dp</dimen>
+
+    <dimen name="categories_text">28sp</dimen>
+</resources>

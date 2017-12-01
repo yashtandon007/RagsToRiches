@@ -1,0 +1,1080 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\260cb71be1eb9feaabf33b85c6981200\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.5] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.7.5.aar\986a2d9c89bb68c86557b7f104b1b070\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-11.4.2.aar\e8cafaa966a16a26a0307c363bcc9aeb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.4.2.aar\ae0a14dac9c37925b8cd0fc97a0696d1\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\84e78b20abaecd4846224bcda1338669\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0adcb1d4048d1bb4ccc503db63eba1bf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\170a040fe4d16dec306a5447de73cf5c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\770769a63e230efbd4e8b2f93413f5bf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\d472f00c55503b1a64e64dc4ee22be61\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\f7e6e994a87f46966f12e5d2c0d1a19e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\c59b2fe96167803a5a5c556b13120c04\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-database:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-11.4.2.aar\4dcd184378ed0fb87a43a28ded089d66\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.2.aar\b9465395303d2623683318b7097779be\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\bcee75882779d3c9bed60d7e1259cc95\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-connection:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.4.2.aar\6c8dcbe7fa41b3040b2975fcbea8b67d\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-config:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-config-11.4.2.aar\24083fecfccf879627fc2aa73b61581a\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-crash:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.2.aar\53a85e528f283747a1d7d20403964e7a\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.4.2.aar\418219120e6a315bf7562285526b00e0\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.4.2.aar\51e13da6a4b9b43b0f0e5e24fa33b77b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.4.2.aar\947ac61514c44c415022e64efc4a42db\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.4.2.aar\49fd0e598557e8a25797e1e61349bc76\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-appindexing:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.4.2.aar\d81445c86f72dcbd86b24a04ce3cb3af\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\10b59b5fc8508851efc6a752bd117c5a\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.4.2.aar\d20cda1d0fe0e7a4ce3ea38444db472e\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.4.2.aar\ebda10067d9bf3bbf3b6a4a061d0ffe3\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.4.2.aar\e60ea7b37893c918125d438ef93f908e\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-awareness:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.4.2.aar\b6ad84044d0c05dbde0bd0f90508ec91\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-games-11.4.2.aar\b34067032cc4504cbce4d207d6035c0e\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.4.2.aar\230614c80eeb5da71f1667942f4b7fb1\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-fido:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.4.2.aar\c7a56bd5db342e581c8c6f2eaaa841b4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fitness:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.4.2.aar\c8367b6f34f9322c67b760e6041db50f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.2.aar\9bf865cebe1d87d2fe38c7b52d3c3364\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.4.2.aar\1330fa596e6fe408b95eaaaad4101177\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.4.2.aar\e42d6fe65dd925204fb3c475bcd645f8\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.2.aar\9c9edefd4312a4a01baa5d3181b16331\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.4.2.aar\a390bdda589ac085cbbb272a2ae21783\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.2.aar\f7ed576fc1d99aa4d0b883eae9ba8e39\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.2.aar\da216e202a19b0382c9d8229c3fc45cb\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.2.aar\a080d209078fbd912f5970fbfc0fc0cb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.4.2.aar\67f715bac35314daed5b43a3a1bde4f5\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.4.2.aar\947b13bd9e5e28dbc02f776c4d5c6cb3\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.4.2.aar\572c2e501deddf6f1598928b5f31d8aa\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.4.2.aar\c2e03f83a7eb2dba53fde319ab5c31eb\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.4.2.aar\b1d6b26f3aef04b5bc0857c0fe095a21\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.4.2.aar\6a3b98b10eb309f5282c04fc1a52233d\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\33f969886868857e67893789acee3c74\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\52b4c7e0f3a3a5836aed8e99c14b8951\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.4.2.aar\0d1934e37d512ef03503cbd711c16137\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.firebase:firebase-storage-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.4.2.aar\fa1159d9ab6b30c6c6b9f7208b6b590c\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-gass:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.4.2.aar\3bb1788ca45d4325f0f28502649f6da7\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\a3ae8d49639a66190e661ad8753317b4\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\18fb954a3cdbb3bb2e167e68968028d4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cf4847aed6353c2f9168762fbf2924d2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c66ff42e3b3e647ffd2a596797bf6f3d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\9e6ab39dab597c37124b9770c0da5f38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\cc17b80c18e147100a50b3a3f15d6af1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\bcbb9855b139b7570f35ed2fc6c286e0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\1350142bec0dd327d87b86cfec69278e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\264a2fff631dd2305e7190aee29f2556\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\f7adb8b900e352e9c1ff39143951fbda\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8593aed5b94ba82b0894d5915b005376\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\db1856c650b6cc1f7d447d8df471fbd4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-database-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.4.2.aar\89b4c511c7db74453dd08a6b7f11fef7\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.4.2.aar\dc0d7466d241c07319a511cb310a164f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.4.2.aar\25aaec878e58809d3b67821a45756173\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\a57795c1b5674d962ce624c182a65288\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.4.2.aar\e6bff6385a52c86745b4a91c7f7bff77\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\c7650aba8136f9d89d5a196b8f77e9e0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.4.2.aar\ba2643b1741bc8219eb6ca8bc83cef99\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.4.2.aar\d2bdaa391af6c3c53abdea90db3000a9\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.4.2.aar\de5c04174c80a448e5f5e0bbe2887a42\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.4.2.aar\6de5ff5a1d0b09230d9eb9107ad66e26\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.4.2.aar\b219f79f67e72a23cdec2bbcf0191b6a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.4.2.aar\6d64fb1a342bfe1f08b05882a1fa765d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-license-11.4.2.aar\c587fe426858bec5894897a9842f4d8c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.4.2.aar\0887d8ba56ee9c10be36a9e5a85469bc\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\2992742cc994ee85e86d294e6c19842b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.4.2.aar\59eb84b5db60af2ca71478b0909322c6\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.4.2.aar\af3a67d42df8b53b58bf16e97b5cfb62\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-config-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-config-license-11.4.2.aar\acff1176513320a304cf7a7be4901554\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-awareness-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-11.4.2.aar\2698d328c71bb7a0c37a44dd5e040d14\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-drive-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.4.2.aar\f71f7497890029167e8a3fbf6a31946d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fido-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-11.4.2.aar\3c39f48109c3d1ca33b3ff1f7f58cf03\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.4.2.aar\3f4d5f363cdbad98a47c39f9e12cf4e5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.4.2.aar\c944a565ec3e07da98b200d5686e41d1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.4.2.aar\1338960356ef7c4404011d16f4f85f8d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.4.2.aar\b07de96a6e79bc200a31cfcf598df28b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.4.2.aar\034b76db9ea736947e8193a79bb30cb6\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-11.4.2.aar\1efea4e0332146f39db46e1beeab1d95\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-games-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.4.2.aar\15e315d0a78058b666e73c8aaf438adb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.4.2.aar\fb5b71c7f244702505f5e669835e8dba\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.4.2.aar\3392b69e6df871c74970cb4e3f571b7b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-appindexing-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-11.4.2.aar\d909b104263771b38602b15354c74cb8\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-identity-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-11.4.2.aar\7e9f6a08066e306114d9fe996c00e8f0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.4.2.aar\35446ce66f0b861329179d0e3dccdb6d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-11.4.2.aar\6e79bc5b8095fc9bd3f99db3fe005388\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.4.2.aar\06b9cd2b1c2595d5aa69d79b7416d6e5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\5b13ed9090ee49f647154d1599c10fc0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\69c8bee998b5d22df78f1245d293edce\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\7f3b9f81ec46901fa554f72f8eda30b2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-nearby-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-11.4.2.aar\0ca3d2b50ce3c76c4b7dadd15c530a35\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-11.4.2.aar\280091de4e23acdf823f1f1d44f3be33\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.4.2.aar\f1b556ff53d94da62c40d991bef76824\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-plus-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.4.2.aar\22e3345f9c84d2a64d45944489d54c27\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-11.4.2.aar\7f458468d40bf11aace29605daf884f7\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-11.4.2.aar\ccf485bba8d2c84ded13c080908a6a10\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-11.4.2.aar\ccb4d136486a3030988fb0d86f63640c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.4.2.aar\0e6e155f7ad9962369c549621b400cb0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.4.2.aar\8a5001142828a04cca6f0af06e0eece9\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.4.2.aar\bcd30712b37cbd0bec65e384e450e187\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wallet-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-11.4.2.aar\9ca34694debeac16516db31059335663\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.4.2.aar\75feabd965f30d574c4c1ecda14f7a8a\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:4:5-47
+		INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-crash:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.2.aar\53a85e528f283747a1d7d20403964e7a\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.2.aar\53a85e528f283747a1d7d20403964e7a\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.2.aar\9bf865cebe1d87d2fe38c7b52d3c3364\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.2.aar\9bf865cebe1d87d2fe38c7b52d3c3364\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.2.aar\9c9edefd4312a4a01baa5d3181b16331\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.2.aar\9c9edefd4312a4a01baa5d3181b16331\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.2.aar\a080d209078fbd912f5970fbfc0fc0cb\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.2.aar\a080d209078fbd912f5970fbfc0fc0cb\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:11:5-49:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\260cb71be1eb9feaabf33b85c6981200\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\260cb71be1eb9feaabf33b85c6981200\AndroidManifest.xml:29:5-20
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.5] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.7.5.aar\986a2d9c89bb68c86557b7f104b1b070\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.5] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.7.5.aar\986a2d9c89bb68c86557b7f104b1b070\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-11.4.2.aar\e8cafaa966a16a26a0307c363bcc9aeb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-11.4.2.aar\e8cafaa966a16a26a0307c363bcc9aeb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.4.2.aar\ae0a14dac9c37925b8cd0fc97a0696d1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.4.2.aar\ae0a14dac9c37925b8cd0fc97a0696d1\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\84e78b20abaecd4846224bcda1338669\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\84e78b20abaecd4846224bcda1338669\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0adcb1d4048d1bb4ccc503db63eba1bf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0adcb1d4048d1bb4ccc503db63eba1bf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\170a040fe4d16dec306a5447de73cf5c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\170a040fe4d16dec306a5447de73cf5c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\770769a63e230efbd4e8b2f93413f5bf\AndroidManifest.xml:9:5-20
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\770769a63e230efbd4e8b2f93413f5bf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\d472f00c55503b1a64e64dc4ee22be61\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\d472f00c55503b1a64e64dc4ee22be61\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\f7e6e994a87f46966f12e5d2c0d1a19e\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\f7e6e994a87f46966f12e5d2c0d1a19e\AndroidManifest.xml:9:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\c59b2fe96167803a5a5c556b13120c04\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\c59b2fe96167803a5a5c556b13120c04\AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.2.aar\b9465395303d2623683318b7097779be\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.2.aar\b9465395303d2623683318b7097779be\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\bcee75882779d3c9bed60d7e1259cc95\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\bcee75882779d3c9bed60d7e1259cc95\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-config:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-config-11.4.2.aar\24083fecfccf879627fc2aa73b61581a\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-config-11.4.2.aar\24083fecfccf879627fc2aa73b61581a\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.2.aar\53a85e528f283747a1d7d20403964e7a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.2.aar\53a85e528f283747a1d7d20403964e7a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.4.2.aar\418219120e6a315bf7562285526b00e0\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.4.2.aar\418219120e6a315bf7562285526b00e0\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.4.2.aar\51e13da6a4b9b43b0f0e5e24fa33b77b\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-dynamic-links:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.4.2.aar\51e13da6a4b9b43b0f0e5e24fa33b77b\AndroidManifest.xml:5:3-17
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-appindexing:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.4.2.aar\d81445c86f72dcbd86b24a04ce3cb3af\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.4.2.aar\d81445c86f72dcbd86b24a04ce3cb3af\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\10b59b5fc8508851efc6a752bd117c5a\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\10b59b5fc8508851efc6a752bd117c5a\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:26:5-31:19
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:26:5-31:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.4.2.aar\e60ea7b37893c918125d438ef93f908e\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.4.2.aar\e60ea7b37893c918125d438ef93f908e\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.4.2.aar\b6ad84044d0c05dbde0bd0f90508ec91\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.4.2.aar\b6ad84044d0c05dbde0bd0f90508ec91\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-games-11.4.2.aar\b34067032cc4504cbce4d207d6035c0e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-games-11.4.2.aar\b34067032cc4504cbce4d207d6035c0e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.4.2.aar\230614c80eeb5da71f1667942f4b7fb1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.4.2.aar\230614c80eeb5da71f1667942f4b7fb1\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fido:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.4.2.aar\c7a56bd5db342e581c8c6f2eaaa841b4\AndroidManifest.xml:5:3-6:17
+MERGED from [com.google.android.gms:play-services-fido:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.4.2.aar\c7a56bd5db342e581c8c6f2eaaa841b4\AndroidManifest.xml:5:3-6:17
+MERGED from [com.google.android.gms:play-services-fitness:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.4.2.aar\c8367b6f34f9322c67b760e6041db50f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.4.2.aar\c8367b6f34f9322c67b760e6041db50f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.2.aar\9bf865cebe1d87d2fe38c7b52d3c3364\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.2.aar\9bf865cebe1d87d2fe38c7b52d3c3364\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.4.2.aar\e42d6fe65dd925204fb3c475bcd645f8\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.4.2.aar\e42d6fe65dd925204fb3c475bcd645f8\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.2.aar\9c9edefd4312a4a01baa5d3181b16331\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.2.aar\9c9edefd4312a4a01baa5d3181b16331\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.2.aar\f7ed576fc1d99aa4d0b883eae9ba8e39\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.2.aar\f7ed576fc1d99aa4d0b883eae9ba8e39\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.2.aar\da216e202a19b0382c9d8229c3fc45cb\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.2.aar\da216e202a19b0382c9d8229c3fc45cb\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.2.aar\a080d209078fbd912f5970fbfc0fc0cb\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.2.aar\a080d209078fbd912f5970fbfc0fc0cb\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.4.2.aar\67f715bac35314daed5b43a3a1bde4f5\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.4.2.aar\67f715bac35314daed5b43a3a1bde4f5\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.4.2.aar\947b13bd9e5e28dbc02f776c4d5c6cb3\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.4.2.aar\947b13bd9e5e28dbc02f776c4d5c6cb3\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.4.2.aar\572c2e501deddf6f1598928b5f31d8aa\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.4.2.aar\572c2e501deddf6f1598928b5f31d8aa\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.4.2.aar\c2e03f83a7eb2dba53fde319ab5c31eb\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.4.2.aar\c2e03f83a7eb2dba53fde319ab5c31eb\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.4.2.aar\b1d6b26f3aef04b5bc0857c0fe095a21\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.4.2.aar\b1d6b26f3aef04b5bc0857c0fe095a21\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.4.2.aar\6a3b98b10eb309f5282c04fc1a52233d\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.4.2.aar\6a3b98b10eb309f5282c04fc1a52233d\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\33f969886868857e67893789acee3c74\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\33f969886868857e67893789acee3c74\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\52b4c7e0f3a3a5836aed8e99c14b8951\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\52b4c7e0f3a3a5836aed8e99c14b8951\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.4.2.aar\3bb1788ca45d4325f0f28502649f6da7\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.4.2.aar\3bb1788ca45d4325f0f28502649f6da7\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\a3ae8d49639a66190e661ad8753317b4\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\a3ae8d49639a66190e661ad8753317b4\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\18fb954a3cdbb3bb2e167e68968028d4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\18fb954a3cdbb3bb2e167e68968028d4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cf4847aed6353c2f9168762fbf2924d2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cf4847aed6353c2f9168762fbf2924d2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c66ff42e3b3e647ffd2a596797bf6f3d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c66ff42e3b3e647ffd2a596797bf6f3d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\cc17b80c18e147100a50b3a3f15d6af1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\cc17b80c18e147100a50b3a3f15d6af1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\bcbb9855b139b7570f35ed2fc6c286e0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\bcbb9855b139b7570f35ed2fc6c286e0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\1350142bec0dd327d87b86cfec69278e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\1350142bec0dd327d87b86cfec69278e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\264a2fff631dd2305e7190aee29f2556\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\264a2fff631dd2305e7190aee29f2556\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\f7adb8b900e352e9c1ff39143951fbda\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\f7adb8b900e352e9c1ff39143951fbda\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8593aed5b94ba82b0894d5915b005376\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8593aed5b94ba82b0894d5915b005376\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\db1856c650b6cc1f7d447d8df471fbd4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\db1856c650b6cc1f7d447d8df471fbd4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-database-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.4.2.aar\89b4c511c7db74453dd08a6b7f11fef7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.4.2.aar\89b4c511c7db74453dd08a6b7f11fef7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.4.2.aar\dc0d7466d241c07319a511cb310a164f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.4.2.aar\dc0d7466d241c07319a511cb310a164f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.4.2.aar\25aaec878e58809d3b67821a45756173\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.4.2.aar\25aaec878e58809d3b67821a45756173\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\a57795c1b5674d962ce624c182a65288\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\a57795c1b5674d962ce624c182a65288\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.4.2.aar\e6bff6385a52c86745b4a91c7f7bff77\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.4.2.aar\e6bff6385a52c86745b4a91c7f7bff77\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\c7650aba8136f9d89d5a196b8f77e9e0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\c7650aba8136f9d89d5a196b8f77e9e0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.4.2.aar\ba2643b1741bc8219eb6ca8bc83cef99\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.4.2.aar\ba2643b1741bc8219eb6ca8bc83cef99\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.4.2.aar\d2bdaa391af6c3c53abdea90db3000a9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.4.2.aar\d2bdaa391af6c3c53abdea90db3000a9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.4.2.aar\de5c04174c80a448e5f5e0bbe2887a42\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.4.2.aar\de5c04174c80a448e5f5e0bbe2887a42\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.4.2.aar\6de5ff5a1d0b09230d9eb9107ad66e26\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.4.2.aar\6de5ff5a1d0b09230d9eb9107ad66e26\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.4.2.aar\b219f79f67e72a23cdec2bbcf0191b6a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.4.2.aar\b219f79f67e72a23cdec2bbcf0191b6a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.4.2.aar\6d64fb1a342bfe1f08b05882a1fa765d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.4.2.aar\6d64fb1a342bfe1f08b05882a1fa765d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-license-11.4.2.aar\c587fe426858bec5894897a9842f4d8c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-license-11.4.2.aar\c587fe426858bec5894897a9842f4d8c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.4.2.aar\0887d8ba56ee9c10be36a9e5a85469bc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.4.2.aar\0887d8ba56ee9c10be36a9e5a85469bc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\2992742cc994ee85e86d294e6c19842b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\2992742cc994ee85e86d294e6c19842b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.4.2.aar\59eb84b5db60af2ca71478b0909322c6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.4.2.aar\59eb84b5db60af2ca71478b0909322c6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.4.2.aar\af3a67d42df8b53b58bf16e97b5cfb62\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.4.2.aar\af3a67d42df8b53b58bf16e97b5cfb62\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-config-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-config-license-11.4.2.aar\acff1176513320a304cf7a7be4901554\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-config-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-config-license-11.4.2.aar\acff1176513320a304cf7a7be4901554\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-11.4.2.aar\2698d328c71bb7a0c37a44dd5e040d14\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-11.4.2.aar\2698d328c71bb7a0c37a44dd5e040d14\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.4.2.aar\f71f7497890029167e8a3fbf6a31946d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.4.2.aar\f71f7497890029167e8a3fbf6a31946d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-11.4.2.aar\3c39f48109c3d1ca33b3ff1f7f58cf03\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-11.4.2.aar\3c39f48109c3d1ca33b3ff1f7f58cf03\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.4.2.aar\3f4d5f363cdbad98a47c39f9e12cf4e5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.4.2.aar\3f4d5f363cdbad98a47c39f9e12cf4e5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.4.2.aar\c944a565ec3e07da98b200d5686e41d1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.4.2.aar\c944a565ec3e07da98b200d5686e41d1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.4.2.aar\1338960356ef7c4404011d16f4f85f8d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.4.2.aar\1338960356ef7c4404011d16f4f85f8d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.4.2.aar\b07de96a6e79bc200a31cfcf598df28b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.4.2.aar\b07de96a6e79bc200a31cfcf598df28b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.4.2.aar\034b76db9ea736947e8193a79bb30cb6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.4.2.aar\034b76db9ea736947e8193a79bb30cb6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-11.4.2.aar\1efea4e0332146f39db46e1beeab1d95\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-11.4.2.aar\1efea4e0332146f39db46e1beeab1d95\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-games-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.4.2.aar\15e315d0a78058b666e73c8aaf438adb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-games-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.4.2.aar\15e315d0a78058b666e73c8aaf438adb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.4.2.aar\fb5b71c7f244702505f5e669835e8dba\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.4.2.aar\fb5b71c7f244702505f5e669835e8dba\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.4.2.aar\3392b69e6df871c74970cb4e3f571b7b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.4.2.aar\3392b69e6df871c74970cb4e3f571b7b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-11.4.2.aar\d909b104263771b38602b15354c74cb8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-11.4.2.aar\d909b104263771b38602b15354c74cb8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-11.4.2.aar\7e9f6a08066e306114d9fe996c00e8f0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-11.4.2.aar\7e9f6a08066e306114d9fe996c00e8f0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.4.2.aar\35446ce66f0b861329179d0e3dccdb6d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.4.2.aar\35446ce66f0b861329179d0e3dccdb6d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-11.4.2.aar\6e79bc5b8095fc9bd3f99db3fe005388\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-11.4.2.aar\6e79bc5b8095fc9bd3f99db3fe005388\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.4.2.aar\06b9cd2b1c2595d5aa69d79b7416d6e5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.4.2.aar\06b9cd2b1c2595d5aa69d79b7416d6e5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\5b13ed9090ee49f647154d1599c10fc0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\5b13ed9090ee49f647154d1599c10fc0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\69c8bee998b5d22df78f1245d293edce\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\69c8bee998b5d22df78f1245d293edce\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\7f3b9f81ec46901fa554f72f8eda30b2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\7f3b9f81ec46901fa554f72f8eda30b2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-11.4.2.aar\0ca3d2b50ce3c76c4b7dadd15c530a35\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-11.4.2.aar\0ca3d2b50ce3c76c4b7dadd15c530a35\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-11.4.2.aar\280091de4e23acdf823f1f1d44f3be33\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-11.4.2.aar\280091de4e23acdf823f1f1d44f3be33\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.4.2.aar\f1b556ff53d94da62c40d991bef76824\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.4.2.aar\f1b556ff53d94da62c40d991bef76824\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.4.2.aar\22e3345f9c84d2a64d45944489d54c27\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.4.2.aar\22e3345f9c84d2a64d45944489d54c27\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-11.4.2.aar\7f458468d40bf11aace29605daf884f7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-11.4.2.aar\7f458468d40bf11aace29605daf884f7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-11.4.2.aar\ccf485bba8d2c84ded13c080908a6a10\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-11.4.2.aar\ccf485bba8d2c84ded13c080908a6a10\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-11.4.2.aar\ccb4d136486a3030988fb0d86f63640c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-11.4.2.aar\ccb4d136486a3030988fb0d86f63640c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.4.2.aar\0e6e155f7ad9962369c549621b400cb0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.4.2.aar\0e6e155f7ad9962369c549621b400cb0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.4.2.aar\8a5001142828a04cca6f0af06e0eece9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.4.2.aar\8a5001142828a04cca6f0af06e0eece9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.4.2.aar\bcd30712b37cbd0bec65e384e450e187\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.4.2.aar\bcd30712b37cbd0bec65e384e450e187\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-11.4.2.aar\9ca34694debeac16516db31059335663\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-11.4.2.aar\9ca34694debeac16516db31059335663\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.4.2.aar\75feabd965f30d574c4c1ecda14f7a8a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.4.2.aar\75feabd965f30d574c4c1ecda14f7a8a\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:15:9-41
+		REJECTED from [com.github.mancj:MaterialSearchBar:0.7.5] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.7.5.aar\986a2d9c89bb68c86557b7f104b1b070\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:14:9-40
+	android:allowBackup
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:17:9-40
+	tools:replace
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:18:9-78
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:12:9-38
+activity#com.infinityapps007.ragstoriches.MainActivity
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.infinityapps007.ragstoriches.DetailsActivity
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:26:9-53
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:26:19-50
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:28:9-30:61
+	android:resource
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:30:13-58
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:29:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:31:9-33:50
+	android:resource
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:33:13-47
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:32:13-84
+activity#com.infinityapps007.ragstoriches.SettingsActivity
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:35:9-38:69
+	android:label
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:37:13-60
+	android:theme
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:38:13-57
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:36:13-45
+service#com.infinityapps007.ragstoriches.MyNewIntentService
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:40:9-54
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:40:18-52
+receiver#com.infinityapps007.ragstoriches.MyReceiver
+ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:42:9-46:20
+	android:enabled
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:44:13-35
+	android:exported
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml:43:13-39
+uses-sdk
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\260cb71be1eb9feaabf33b85c6981200\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\260cb71be1eb9feaabf33b85c6981200\AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.5] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.7.5.aar\986a2d9c89bb68c86557b7f104b1b070\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mancj:MaterialSearchBar:0.7.5] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.7.5.aar\986a2d9c89bb68c86557b7f104b1b070\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-11.4.2.aar\e8cafaa966a16a26a0307c363bcc9aeb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-11.4.2.aar\e8cafaa966a16a26a0307c363bcc9aeb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.4.2.aar\ae0a14dac9c37925b8cd0fc97a0696d1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.4.2.aar\ae0a14dac9c37925b8cd0fc97a0696d1\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\84e78b20abaecd4846224bcda1338669\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\84e78b20abaecd4846224bcda1338669\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0adcb1d4048d1bb4ccc503db63eba1bf\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\0adcb1d4048d1bb4ccc503db63eba1bf\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\170a040fe4d16dec306a5447de73cf5c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\170a040fe4d16dec306a5447de73cf5c\AndroidManifest.xml:20:5-43
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\770769a63e230efbd4e8b2f93413f5bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\770769a63e230efbd4e8b2f93413f5bf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\d472f00c55503b1a64e64dc4ee22be61\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\d472f00c55503b1a64e64dc4ee22be61\AndroidManifest.xml:7:5-43
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\f7e6e994a87f46966f12e5d2c0d1a19e\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\f7e6e994a87f46966f12e5d2c0d1a19e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\c59b2fe96167803a5a5c556b13120c04\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\c59b2fe96167803a5a5c556b13120c04\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-database:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-11.4.2.aar\4dcd184378ed0fb87a43a28ded089d66\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-11.4.2.aar\4dcd184378ed0fb87a43a28ded089d66\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.2.aar\b9465395303d2623683318b7097779be\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.2.aar\b9465395303d2623683318b7097779be\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\bcee75882779d3c9bed60d7e1259cc95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\bcee75882779d3c9bed60d7e1259cc95\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.4.2.aar\6c8dcbe7fa41b3040b2975fcbea8b67d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.4.2.aar\6c8dcbe7fa41b3040b2975fcbea8b67d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-config:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-config-11.4.2.aar\24083fecfccf879627fc2aa73b61581a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-config-11.4.2.aar\24083fecfccf879627fc2aa73b61581a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.2.aar\53a85e528f283747a1d7d20403964e7a\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.4.2.aar\53a85e528f283747a1d7d20403964e7a\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.4.2.aar\418219120e6a315bf7562285526b00e0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.4.2.aar\418219120e6a315bf7562285526b00e0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.4.2.aar\51e13da6a4b9b43b0f0e5e24fa33b77b\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-dynamic-links:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.4.2.aar\51e13da6a4b9b43b0f0e5e24fa33b77b\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-tagmanager:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.4.2.aar\947ac61514c44c415022e64efc4a42db\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.4.2.aar\947ac61514c44c415022e64efc4a42db\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.4.2.aar\49fd0e598557e8a25797e1e61349bc76\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.4.2.aar\49fd0e598557e8a25797e1e61349bc76\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.4.2.aar\d81445c86f72dcbd86b24a04ce3cb3af\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.4.2.aar\d81445c86f72dcbd86b24a04ce3cb3af\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\10b59b5fc8508851efc6a752bd117c5a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\10b59b5fc8508851efc6a752bd117c5a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.4.2.aar\d20cda1d0fe0e7a4ce3ea38444db472e\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.4.2.aar\d20cda1d0fe0e7a4ce3ea38444db472e\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.4.2.aar\ebda10067d9bf3bbf3b6a4a061d0ffe3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.4.2.aar\ebda10067d9bf3bbf3b6a4a061d0ffe3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.4.2.aar\e60ea7b37893c918125d438ef93f908e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.4.2.aar\e60ea7b37893c918125d438ef93f908e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.4.2.aar\b6ad84044d0c05dbde0bd0f90508ec91\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.4.2.aar\b6ad84044d0c05dbde0bd0f90508ec91\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-games-11.4.2.aar\b34067032cc4504cbce4d207d6035c0e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-games-11.4.2.aar\b34067032cc4504cbce4d207d6035c0e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.4.2.aar\230614c80eeb5da71f1667942f4b7fb1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.4.2.aar\230614c80eeb5da71f1667942f4b7fb1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fido:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.4.2.aar\c7a56bd5db342e581c8c6f2eaaa841b4\AndroidManifest.xml:4:3-41
+MERGED from [com.google.android.gms:play-services-fido:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.4.2.aar\c7a56bd5db342e581c8c6f2eaaa841b4\AndroidManifest.xml:4:3-41
+MERGED from [com.google.android.gms:play-services-fitness:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.4.2.aar\c8367b6f34f9322c67b760e6041db50f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.4.2.aar\c8367b6f34f9322c67b760e6041db50f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.2.aar\9bf865cebe1d87d2fe38c7b52d3c3364\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.2.aar\9bf865cebe1d87d2fe38c7b52d3c3364\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.4.2.aar\1330fa596e6fe408b95eaaaad4101177\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.4.2.aar\1330fa596e6fe408b95eaaaad4101177\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.4.2.aar\e42d6fe65dd925204fb3c475bcd645f8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.4.2.aar\e42d6fe65dd925204fb3c475bcd645f8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.2.aar\9c9edefd4312a4a01baa5d3181b16331\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.2.aar\9c9edefd4312a4a01baa5d3181b16331\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.4.2.aar\a390bdda589ac085cbbb272a2ae21783\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.4.2.aar\a390bdda589ac085cbbb272a2ae21783\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.2.aar\f7ed576fc1d99aa4d0b883eae9ba8e39\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-location-11.4.2.aar\f7ed576fc1d99aa4d0b883eae9ba8e39\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.2.aar\da216e202a19b0382c9d8229c3fc45cb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-places-11.4.2.aar\da216e202a19b0382c9d8229c3fc45cb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.2.aar\a080d209078fbd912f5970fbfc0fc0cb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.4.2.aar\a080d209078fbd912f5970fbfc0fc0cb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.4.2.aar\67f715bac35314daed5b43a3a1bde4f5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.4.2.aar\67f715bac35314daed5b43a3a1bde4f5\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.4.2.aar\947b13bd9e5e28dbc02f776c4d5c6cb3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.4.2.aar\947b13bd9e5e28dbc02f776c4d5c6cb3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.4.2.aar\572c2e501deddf6f1598928b5f31d8aa\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.4.2.aar\572c2e501deddf6f1598928b5f31d8aa\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.4.2.aar\c2e03f83a7eb2dba53fde319ab5c31eb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.4.2.aar\c2e03f83a7eb2dba53fde319ab5c31eb\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.4.2.aar\b1d6b26f3aef04b5bc0857c0fe095a21\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.4.2.aar\b1d6b26f3aef04b5bc0857c0fe095a21\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.4.2.aar\6a3b98b10eb309f5282c04fc1a52233d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.4.2.aar\6a3b98b10eb309f5282c04fc1a52233d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\33f969886868857e67893789acee3c74\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\33f969886868857e67893789acee3c74\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\52b4c7e0f3a3a5836aed8e99c14b8951\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\52b4c7e0f3a3a5836aed8e99c14b8951\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.4.2.aar\0d1934e37d512ef03503cbd711c16137\AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.4.2.aar\0d1934e37d512ef03503cbd711c16137\AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:22:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.4.2.aar\fa1159d9ab6b30c6c6b9f7208b6b590c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.4.2.aar\fa1159d9ab6b30c6c6b9f7208b6b590c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.4.2.aar\3bb1788ca45d4325f0f28502649f6da7\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.4.2.aar\3bb1788ca45d4325f0f28502649f6da7\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\a3ae8d49639a66190e661ad8753317b4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\a3ae8d49639a66190e661ad8753317b4\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\18fb954a3cdbb3bb2e167e68968028d4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\18fb954a3cdbb3bb2e167e68968028d4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cf4847aed6353c2f9168762fbf2924d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cf4847aed6353c2f9168762fbf2924d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c66ff42e3b3e647ffd2a596797bf6f3d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c66ff42e3b3e647ffd2a596797bf6f3d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\9e6ab39dab597c37124b9770c0da5f38\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\9e6ab39dab597c37124b9770c0da5f38\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\cc17b80c18e147100a50b3a3f15d6af1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\cc17b80c18e147100a50b3a3f15d6af1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\bcbb9855b139b7570f35ed2fc6c286e0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\bcbb9855b139b7570f35ed2fc6c286e0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\1350142bec0dd327d87b86cfec69278e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\1350142bec0dd327d87b86cfec69278e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\264a2fff631dd2305e7190aee29f2556\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\264a2fff631dd2305e7190aee29f2556\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\f7adb8b900e352e9c1ff39143951fbda\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\f7adb8b900e352e9c1ff39143951fbda\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8593aed5b94ba82b0894d5915b005376\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8593aed5b94ba82b0894d5915b005376\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\db1856c650b6cc1f7d447d8df471fbd4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\db1856c650b6cc1f7d447d8df471fbd4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.firebase:firebase-database-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.4.2.aar\89b4c511c7db74453dd08a6b7f11fef7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.4.2.aar\89b4c511c7db74453dd08a6b7f11fef7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.4.2.aar\dc0d7466d241c07319a511cb310a164f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.4.2.aar\dc0d7466d241c07319a511cb310a164f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.4.2.aar\25aaec878e58809d3b67821a45756173\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.4.2.aar\25aaec878e58809d3b67821a45756173\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\a57795c1b5674d962ce624c182a65288\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\a57795c1b5674d962ce624c182a65288\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.4.2.aar\e6bff6385a52c86745b4a91c7f7bff77\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.4.2.aar\e6bff6385a52c86745b4a91c7f7bff77\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\c7650aba8136f9d89d5a196b8f77e9e0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\c7650aba8136f9d89d5a196b8f77e9e0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.4.2.aar\ba2643b1741bc8219eb6ca8bc83cef99\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.4.2.aar\ba2643b1741bc8219eb6ca8bc83cef99\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.4.2.aar\d2bdaa391af6c3c53abdea90db3000a9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.4.2.aar\d2bdaa391af6c3c53abdea90db3000a9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.4.2.aar\de5c04174c80a448e5f5e0bbe2887a42\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.4.2.aar\de5c04174c80a448e5f5e0bbe2887a42\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.4.2.aar\6de5ff5a1d0b09230d9eb9107ad66e26\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.4.2.aar\6de5ff5a1d0b09230d9eb9107ad66e26\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.4.2.aar\b219f79f67e72a23cdec2bbcf0191b6a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-11.4.2.aar\b219f79f67e72a23cdec2bbcf0191b6a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.4.2.aar\6d64fb1a342bfe1f08b05882a1fa765d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.4.2.aar\6d64fb1a342bfe1f08b05882a1fa765d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-license-11.4.2.aar\c587fe426858bec5894897a9842f4d8c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-license-11.4.2.aar\c587fe426858bec5894897a9842f4d8c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.4.2.aar\0887d8ba56ee9c10be36a9e5a85469bc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.4.2.aar\0887d8ba56ee9c10be36a9e5a85469bc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\2992742cc994ee85e86d294e6c19842b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\2992742cc994ee85e86d294e6c19842b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.4.2.aar\59eb84b5db60af2ca71478b0909322c6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.4.2.aar\59eb84b5db60af2ca71478b0909322c6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.4.2.aar\af3a67d42df8b53b58bf16e97b5cfb62\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.4.2.aar\af3a67d42df8b53b58bf16e97b5cfb62\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-config-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-config-license-11.4.2.aar\acff1176513320a304cf7a7be4901554\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-config-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-config-license-11.4.2.aar\acff1176513320a304cf7a7be4901554\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-awareness-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-11.4.2.aar\2698d328c71bb7a0c37a44dd5e040d14\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-awareness-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-11.4.2.aar\2698d328c71bb7a0c37a44dd5e040d14\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-drive-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.4.2.aar\f71f7497890029167e8a3fbf6a31946d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-drive-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-11.4.2.aar\f71f7497890029167e8a3fbf6a31946d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fido-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-11.4.2.aar\3c39f48109c3d1ca33b3ff1f7f58cf03\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fido-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-11.4.2.aar\3c39f48109c3d1ca33b3ff1f7f58cf03\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.4.2.aar\3f4d5f363cdbad98a47c39f9e12cf4e5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.4.2.aar\3f4d5f363cdbad98a47c39f9e12cf4e5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.4.2.aar\c944a565ec3e07da98b200d5686e41d1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.4.2.aar\c944a565ec3e07da98b200d5686e41d1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.4.2.aar\1338960356ef7c4404011d16f4f85f8d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.4.2.aar\1338960356ef7c4404011d16f4f85f8d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.4.2.aar\b07de96a6e79bc200a31cfcf598df28b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.4.2.aar\b07de96a6e79bc200a31cfcf598df28b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.4.2.aar\034b76db9ea736947e8193a79bb30cb6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.4.2.aar\034b76db9ea736947e8193a79bb30cb6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fitness-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-11.4.2.aar\1efea4e0332146f39db46e1beeab1d95\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fitness-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-11.4.2.aar\1efea4e0332146f39db46e1beeab1d95\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-games-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.4.2.aar\15e315d0a78058b666e73c8aaf438adb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-games-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-games-license-11.4.2.aar\15e315d0a78058b666e73c8aaf438adb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.4.2.aar\fb5b71c7f244702505f5e669835e8dba\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.4.2.aar\fb5b71c7f244702505f5e669835e8dba\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.4.2.aar\3392b69e6df871c74970cb4e3f571b7b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.4.2.aar\3392b69e6df871c74970cb4e3f571b7b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-11.4.2.aar\d909b104263771b38602b15354c74cb8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-11.4.2.aar\d909b104263771b38602b15354c74cb8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-11.4.2.aar\7e9f6a08066e306114d9fe996c00e8f0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-11.4.2.aar\7e9f6a08066e306114d9fe996c00e8f0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.4.2.aar\35446ce66f0b861329179d0e3dccdb6d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.4.2.aar\35446ce66f0b861329179d0e3dccdb6d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-11.4.2.aar\6e79bc5b8095fc9bd3f99db3fe005388\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-11.4.2.aar\6e79bc5b8095fc9bd3f99db3fe005388\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.4.2.aar\06b9cd2b1c2595d5aa69d79b7416d6e5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.4.2.aar\06b9cd2b1c2595d5aa69d79b7416d6e5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\5b13ed9090ee49f647154d1599c10fc0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\5b13ed9090ee49f647154d1599c10fc0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\69c8bee998b5d22df78f1245d293edce\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\69c8bee998b5d22df78f1245d293edce\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\7f3b9f81ec46901fa554f72f8eda30b2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\7f3b9f81ec46901fa554f72f8eda30b2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-nearby-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-11.4.2.aar\0ca3d2b50ce3c76c4b7dadd15c530a35\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-nearby-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-11.4.2.aar\0ca3d2b50ce3c76c4b7dadd15c530a35\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-panorama-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-11.4.2.aar\280091de4e23acdf823f1f1d44f3be33\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-panorama-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-11.4.2.aar\280091de4e23acdf823f1f1d44f3be33\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.4.2.aar\f1b556ff53d94da62c40d991bef76824\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.4.2.aar\f1b556ff53d94da62c40d991bef76824\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-plus-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.4.2.aar\22e3345f9c84d2a64d45944489d54c27\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-plus-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-11.4.2.aar\22e3345f9c84d2a64d45944489d54c27\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-11.4.2.aar\7f458468d40bf11aace29605daf884f7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-11.4.2.aar\7f458468d40bf11aace29605daf884f7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-11.4.2.aar\ccf485bba8d2c84ded13c080908a6a10\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-11.4.2.aar\ccf485bba8d2c84ded13c080908a6a10\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-11.4.2.aar\ccb4d136486a3030988fb0d86f63640c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-11.4.2.aar\ccb4d136486a3030988fb0d86f63640c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.4.2.aar\0e6e155f7ad9962369c549621b400cb0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.4.2.aar\0e6e155f7ad9962369c549621b400cb0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.4.2.aar\8a5001142828a04cca6f0af06e0eece9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-11.4.2.aar\8a5001142828a04cca6f0af06e0eece9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.4.2.aar\bcd30712b37cbd0bec65e384e450e187\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-11.4.2.aar\bcd30712b37cbd0bec65e384e450e187\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wallet-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-11.4.2.aar\9ca34694debeac16516db31059335663\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wallet-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-11.4.2.aar\9ca34694debeac16516db31059335663\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.4.2.aar\75feabd965f30d574c4c1ecda14f7a8a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.4.2.aar\75feabd965f30d574c4c1ecda14f7a8a\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\260cb71be1eb9feaabf33b85c6981200\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Magic Lenz\Desktop\RagsToRiches\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\260cb71be1eb9feaabf33b85c6981200\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\170a040fe4d16dec306a5447de73cf5c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.4.0.aar\170a040fe4d16dec306a5447de73cf5c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\bcee75882779d3c9bed60d7e1259cc95\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\bcee75882779d3c9bed60d7e1259cc95\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\18fb954a3cdbb3bb2e167e68968028d4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\18fb954a3cdbb3bb2e167e68968028d4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cf4847aed6353c2f9168762fbf2924d2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\cf4847aed6353c2f9168762fbf2924d2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c66ff42e3b3e647ffd2a596797bf6f3d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\c66ff42e3b3e647ffd2a596797bf6f3d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\cc17b80c18e147100a50b3a3f15d6af1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.4.0.aar\cc17b80c18e147100a50b3a3f15d6af1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\bcbb9855b139b7570f35ed2fc6c286e0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\bcbb9855b139b7570f35ed2fc6c286e0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\1350142bec0dd327d87b86cfec69278e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\1350142bec0dd327d87b86cfec69278e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\f7adb8b900e352e9c1ff39143951fbda\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\f7adb8b900e352e9c1ff39143951fbda\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8593aed5b94ba82b0894d5915b005376\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\8593aed5b94ba82b0894d5915b005376\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\db1856c650b6cc1f7d447d8df471fbd4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\db1856c650b6cc1f7d447d8df471fbd4\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\260cb71be1eb9feaabf33b85c6981200\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\260cb71be1eb9feaabf33b85c6981200\AndroidManifest.xml:26:9-47
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.4.2.aar\c4dcd31ea1165228d290fec0bb15e476\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\460fdfc84ada01a7c8657c447fd12f37\AndroidManifest.xml:25:25-75
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\1e77f7562c5cc86737511f99c5812a18\AndroidManifest.xml:23:27-73
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:25:118-142
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:25:94-117
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.4.2.aar\76d87ba4049d428afdb950eb39064e30\AndroidManifest.xml:30:27-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.4.2.aar\a82f7275162656f676c9f4edc13d0bc5\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\b29c25a0f1255e31fcc0796e8ccb63a1\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\6e1f3feb45cd9ff2fe953348e526c1c4\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:22:5-81
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.2.aar\9bf865cebe1d87d2fe38c7b52d3c3364\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.4.2.aar\9bf865cebe1d87d2fe38c7b52d3c3364\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.2.aar\9c9edefd4312a4a01baa5d3181b16331\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.4.2.aar\9c9edefd4312a4a01baa5d3181b16331\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:24:17-71
+permission#com.infinityapps007.ragstoriches.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:26:22-76
+uses-permission#com.infinityapps007.ragstoriches.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:31:13-34:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.infinityapps007.ragstoriches
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:33:27-58
+category#com.infinityapps007.ragstoriches
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\4a5d5e42a4cc01715269849675fcc812\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\10b59b5fc8508851efc6a752bd117c5a\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\10b59b5fc8508851efc6a752bd117c5a\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\10b59b5fc8508851efc6a752bd117c5a\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\10b59b5fc8508851efc6a752bd117c5a\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\10b59b5fc8508851efc6a752bd117c5a\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\0a40341919fbec45f351b193c51ee085\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:27:9-28:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:27:85-107
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:27:108-132
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:27:19-84
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:29:9-132
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:29:83-105
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:29:106-130
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:29:18-82
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:30:9-192
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:30:143-165
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:30:166-190
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:30:86-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.4.2.aar\caf7a04128ca1c88947b039dc73ad2a7\AndroidManifest.xml:30:18-85
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\4bf46c556cc941b18d362f4c366a547c\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\33f969886868857e67893789acee3c74\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\33f969886868857e67893789acee3c74\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\33f969886868857e67893789acee3c74\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\33f969886868857e67893789acee3c74\AndroidManifest.xml:19:19-85
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:25:9-257
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:25:231-255
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.4.2.aar\6d630083c58ffa36b1ee07d234b88dcd\AndroidManifest.xml:25:19-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\a3ae8d49639a66190e661ad8753317b4\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\a3ae8d49639a66190e661ad8753317b4\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Magic Lenz\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\a3ae8d49639a66190e661ad8753317b4\AndroidManifest.xml:20:20-65

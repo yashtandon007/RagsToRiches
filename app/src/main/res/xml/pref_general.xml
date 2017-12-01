@@ -1,0 +1,14 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="@string/key_disk_cache"
+        android:summary="@string/pref_description_disk_cache"
+        android:title="@string/pref_title_disk_cache" />
+
+    <SwitchPreference
+        android:key="@string/key_night_mode"
+        android:summary="@string/pref_description_night_mode"
+        android:title="@string/pref_title_night_mode" />
+
+</PreferenceScreen>
